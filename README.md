@@ -1,0 +1,4 @@
+getCleanData
+============
+
+for course
